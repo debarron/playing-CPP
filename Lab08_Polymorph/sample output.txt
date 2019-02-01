@@ -1,0 +1,34 @@
+BANK STATEMENT
+
+Account number: 101
+Type of account: Checking
+Balance: $40
+
+Account number: 102
+Type of account: Savings
+Balance: $56
+
+Account number: 103
+Type of account: Certificate of Deposit
+Balance: $78.0453
+
+Account number: 104
+Type of account: Certificate of Deposit
+Balance: $769.56
+
+Account number: 105
+Type of account: Checking
+Balance: $43
+
+Account number: 106
+Type of account: Certificate of Deposit
+Balance: $326.04
+
+Account number: 107
+Type of account: Savings
+Balance: $247.45
+
+Account number: 108
+Type of account: Savings
+Balance: $109.08
+

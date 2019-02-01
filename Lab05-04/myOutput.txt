@@ -1,0 +1,8 @@
+Books checked out: 
+------------------ 
+
+Title 	 Author 	 ISBN
+Title: Code: The Hidden Language of Computer Hardware and Software Author: Charles Petzold ISBN: 1735611319
+Title: Interconnection Networks Author: Jose Duato ISBN: 1558608524
+Title: Understanding Computers: Today & Tomorrow, Comprehensive Author: Deborah Morley ISBN: 1423925211
+Title: Logic and Computer Design Fundamentals Author: M. Morris Mano ISBN: 1131678493

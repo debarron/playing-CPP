@@ -1,0 +1,8 @@
+Books checked out:
+------------------
+
+Title	Author	ISBN
+Code: The Hidden Language of Computer Hardware and Software	Charles Petzold	1735611319
+Interconnection Networks	Jose Duato	1558608524
+Understanding Computers: Today & Tomorrow, Comprehensive	Deborah Morley	1423925211
+Logic and Computer Design Fundamentals	M. Morris Mano	1131678493

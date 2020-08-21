@@ -1,11 +1,12 @@
 #include <vector>
+#include <tuple>
 #include <map>
 #include <string>
 #include <iostream>
 
 using namespace std;
 
-typedef tuple<string, int, char*> Data;
+typedef tuple<string, int, const char*> Data;
 
 void modify_int(int *v){
   *v = *v * 2;
@@ -26,10 +27,10 @@ int main(int argc, char **argv){
 
   vector<Data>::iterator it;
   for(it = d.begin(); it != d.end(); ++it){
-    int *d_p = &get<1>(it);
-    modify_int(d_p);
+    Data &d_i = *it;
+    modify_int(&get<1>(d_i));
 
-    cout << "RES: " << it << endl;
+    cout << "RES: " << get<0>(d_i) << " " << get<1>(d_i) << endl;
   }
 
   return 0;
